@@ -65,3 +65,7 @@ This produces:
 - **Nothing is auto-deleted.** Trash moves only happen when you select
   rows and confirm. Permanent deletion is never offered — the Trash is
   always recoverable if you change your mind.
+
+
+
+<img width="1447" height="886" alt="Screenshot 2026-07-12 174157" src="https://github.com/user-attachments/assets/5a268b24-848d-47c8-9716-bba21e4c46a9" />
